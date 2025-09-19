@@ -1,0 +1,9 @@
+.home {
+    background-image: url('../assets/embalse-1-scaled.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}

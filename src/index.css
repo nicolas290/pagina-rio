@@ -1,0 +1,130 @@
+html, body {
+  height: 100%;
+}
+
+
+
+
+
+    .navbar {
+      background-color: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
+    }
+
+    .navbar-brand img {
+      height: 50px;
+      margin-right: 10px;
+    }
+
+    .navbar-nav .nav-link,
+    .dropdown-toggle {
+      color: #000;
+      font-weight: 600;
+      font-size: 1.1rem;
+    }
+
+    .navbar-nav .nav-link:hover,
+    .dropdown-toggle:hover {
+      color: #007bff;
+    }
+
+    /* Dropdown on hover */
+    .dropdown:hover .dropdown-menu {
+      display: block;
+      margin-top: 0;
+    }
+
+    main {
+      flex-grow: 1;
+      padding: 40px 20px;
+      color: white;
+      text-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
+    }
+
+    footer {
+      background-color: rgba(255, 255, 255, 0.8);
+      text-align: center;
+      padding: 15px 10px;
+      font-size: 0.9rem;
+      color: #333;
+      backdrop-filter: blur(10px);
+      box-shadow: 0 -2px 8px rgb(0 0 0 / 0.1);
+    }
+
+    footer img {
+      height: 24px;
+      vertical-align: middle;
+      margin-left: 8px;
+    }
+
+
+
+     body {
+      background-color: #f8f9fa;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 1rem 0;
+      text-align: center;
+    }
+
+    .section-title {
+      border-bottom: 2px solid #004080;
+      margin-bottom: 2rem;
+      padding-bottom: 0.5rem;
+      font-size: 1.8rem;
+    }
+
+    .card {
+      background-color: white;
+      border: none;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-title {
+      font-size: 1.25rem;
+      font-weight: bold;
+    }
+
+    .card-text {
+      font-size: 0.95rem;
+      color: #333;
+    }
+
+    .btn-primary {
+      background-color: #004080;
+      border: none;
+    }
+
+    .btn-primary:hover {
+      background-color: #002f5f;
+    }
+
+
+    .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+
+
+
+
+
+  .dropdown-menu {
+    z-index: 1050 !important;
+  }
+
+  .navbar {
+    position: relative;
+    z-index: 1060;
+  }
+
+  .card.bg-dark {
+    position: relative;
+    z-index: 1;
+  }
