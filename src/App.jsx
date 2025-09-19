@@ -4,7 +4,7 @@ import Directorio from "./paginas/Directorio";
 import Home from "./paginas/Home";
 import Museo from "./paginas/Museo";
 import Noticias from "./paginas/Noticias";
-import ReporteHidrologico from "./paginas/reportehidrologico";
+import ReporteHidrologico from "./paginas/ReporteHidrologico";
 import Regantes from "./paginas/Regantes";
 import Linea from "./paginas/Linea";
 function App() {
