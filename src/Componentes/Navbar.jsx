@@ -88,7 +88,7 @@ function Navbar() {
               
             </Link>
                <Link className="nav-link" to={"/linea"}>
-              linea Estratégicas
+              
             </Link>
 
 
