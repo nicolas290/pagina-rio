@@ -4,7 +4,6 @@ import Directorio from "./paginas/Directorio";
 import Home from "./paginas/Home";
 import Museo from "./paginas/Museo";
 import Noticias from "./paginas/Noticias";
-import ReporteHidrologico from "./paginas/ReporteHidrologico";
 import Regantes from "./paginas/Regantes";
 import Linea from "./paginas/Linea";
 function App() {
@@ -18,7 +17,7 @@ function App() {
         <Route path="/museo" element={<Museo />} />
         <Route path="/directorio" element={<Directorio />} />
         <Route path="/noticias" element={<Noticias />} />
-        <Route path="/reporte-hidrologico" element={<ReporteHidrologico />} />
+    
         {/* <Route path="/regantes" element={<Regantes />} /> */}
         <Route path="/regantes" element={<Regantes />} />
         <Route path="/linea" element={<Linea />} /> 
