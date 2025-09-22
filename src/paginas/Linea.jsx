@@ -1,7 +1,7 @@
 import React from "react";
 import apoyo from "../../src/assets/Apoyocomunidades.jpg";
 import reparacion from "../../src/assets/Reparaciones.png";
-import calidad from "../../src/assets/Calidadaguas.jpg";
+import calidad from "../../src/assets/calidadaguas.jpg";
 import desarrollo from "../../src/assets/Desarrollo.jpg";
 
 function Linea() {
