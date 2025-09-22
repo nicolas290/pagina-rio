@@ -6,7 +6,9 @@ import Museo from "./paginas/Museo";
 import Noticias from "./paginas/Noticias";
 import Regantes from "./paginas/Regantes";
 import Linea from "./paginas/Linea";
-import noticiasData from "./noticiasdata";
+// ...existing code...
+import noticiasData from "./paginas/noticiasdata";
+// ...existing code...
 function App() {
   return (
     <BrowserRouter>
