@@ -2,7 +2,7 @@ import React from "react";
 import NoticiaCard from "../Componentes/NoticiaCard";
 import  fotogeneral from"../assets/foto-general.png"
 import instagram from '../assets/instagram.png';
-import noticiasData from "./NoticiasData";
+import noticiasData from "../noticiasData";
 
 
 
