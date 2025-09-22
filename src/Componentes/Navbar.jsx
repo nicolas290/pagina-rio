@@ -30,7 +30,7 @@ function Navbar() {
             <Link className="nav-link" to={"/directorio"}>
               Directorio
             </Link>
-            <Link className="nav-link" to={"/"}>
+            <Link className="nav-link" to={"/linea"}>
               Líneas Estratégicas
             </Link>
 
