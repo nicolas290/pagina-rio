@@ -1,11 +1,5 @@
 const noticiasData = [
-  {
-    "titulo": "Proyectos de riego beneficiarán a agricultores",
-    "descripcion": "Con apoyo de la #NuevaLeydeRiego, distintas organizaciones de usuarios de agua podrán avanzar en la construcción de 26 proyectos...",
-    "subdescripcion": "Estas obras permitirán a los agricultores hacer un uso más eficiente del recurso hídrico. Las bonificaciones superan los $2.700 millones de pesos.",
-    "imagen": "img/foto-general-768x346.png",
-    "alt": "Proyecto de Riego"
-  },
+
   {
     "titulo": "Concurso “Cuidamos las aguas” amplía su plazo",
     "descripcion": "La Junta de Vigilancia extendió el plazo hasta el 8 de agosto para participar en el concurso de dibujo destinado a estudiantes...",
